@@ -1,4 +1,3 @@
-
 # README TITLE
 
 **Author:** MY NAME
@@ -11,20 +10,20 @@ Hey! This project...
 ## 🔗 Links
 
 #### Repo
+
 Link Here
 
 #### Live Site
+
 Link here
 
 ![Preview](assets/designs/preview.png)
 
-
 ## Tech Stack
 
-**Languages:** JavaScript, Html, Css, Sass 
+**Languages:** JavaScript, Html, Css, Sass
 
 [![Stack](https://skillicons.dev/icons?i=js,html,css,sass)](https://skillicons.dev)
-
 
 ## Studied Topics:
 
@@ -36,7 +35,7 @@ Link here
 
 ## Validations
 
-**HTML:** 
+**HTML:**
 
 ![HTML](assets/validation/html-validation.png)
 
@@ -44,7 +43,7 @@ Link here
 
 ![CSS](assets/validation/css-validaton.png)
 
-**LIGHTOUSE:** 
+**LIGHTOUSE:**
 
 ![Lighthouse](assets/validation/lighthouse-validation.png)
 
